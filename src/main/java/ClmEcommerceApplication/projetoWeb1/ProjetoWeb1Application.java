@@ -31,7 +31,7 @@ public class ProjetoWeb1Application implements CommandLineRunner {
                 "Batom vermelho ultra power",
                 20.00,
                 3,
-                "imagem",
+                "https://acdn-us.mitiendanube.com/stores/004/297/279/products/avon-ultra-color-batom-brilhante-vermelho-glitz-c2a630463cc6e9662417539175257506-1024-1024.webp",
                 Categoria.MAQUIAGEM,
                 TipoProduto.BATOM
         );
